@@ -1,0 +1,15 @@
+process 1
+	start 0
+	lifespan 10
+end
+
+process 2
+	start 0
+	lifespan 10
+end
+
+process 3
+	start 3
+	lifespan 8
+	prio 10
+end
